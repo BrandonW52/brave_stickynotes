@@ -1,5 +1,3 @@
-# brave_stickynotes
+# (React + TypeScript + Vite) NotePad extention for Chrome
 
-test
-
-test
+Test
